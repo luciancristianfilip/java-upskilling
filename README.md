@@ -1,4 +1,8 @@
 # java-upskilling
 
-Topics
+### Java version
+
+Oracle JDK 11
+
+### Topics
 - Generics
